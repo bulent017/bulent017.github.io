@@ -1,0 +1,38 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.table-frame {
+	margin: 50px auto;
+	padding: 20px;
+	border: 1px solid black;
+	width: 800px;
+	text-align: center;
+	
+}
+
+.table-frame h2 {
+	margin-top: 0;
+}
+
+table {
+	border-collapse: collapse;
+	border: 1px solid black;
+	margin: 0 auto;
+}
+
+thead {
+	background-color: yellow;
+}
+
+th,
+td {
+	border: 1px solid black;
+	padding: .2em 1em .2em .5em;
+	text-align: left
+}
+
+.right {
+    text-align: right;
+}
