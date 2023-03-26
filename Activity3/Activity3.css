@@ -1,0 +1,90 @@
+* {
+	box-sizing: border-box;
+  }
+  
+  .content {
+	justify-content: center;
+	text-align: justify;
+	margin-left: 450px;
+	margin-right: 450px;
+	word-spacing: 2px;
+	float: left;
+
+  }
+  .head {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 20px;
+
+  }
+
+  
+  
+  
+ 
+  .image img {
+	max-width: 250px;
+	margin-left: auto;
+	float: left;
+	display: block;
+	margin-right: auto;
+	height: auto;
+	margin: 20px;
+}
+
+  
+ 
+  
+  
+  
+  
+  .copyright {
+	margin-top: 150px;
+	text-align: center;
+	font-size: 14px;
+	color: #423f3f;
+  }
+
+  
+  .logo {
+	width: 250px;
+	padding-right: 50px;
+	height: auto;
+	margin-left: 0;
+	float: left;
+	
+
+} 
+.advertisement {
+	width: 100px;
+	height: 150px;
+	position: absolute;
+	background-color: gray;
+	color: white;
+	margin: 20px;
+	margin-right: 100px;
+	top: 10px;
+	left:10px
+  }
+
+
+  .title {
+	text-align: center;
+	
+
+}
+
+ .main{
+	padding: 10px;
+	text-align: justify;
+ }
+
+
+.header
+{
+	margin-left: 100px;
+	margin: auto;
+	max-width: 70%;
+	margin-bottom: 50px;
+	
+	}
