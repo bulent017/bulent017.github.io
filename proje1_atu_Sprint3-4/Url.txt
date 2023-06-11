@@ -1,0 +1,51 @@
+URL:  https://bulent017.github.io/proje1_atu_Sprint3-4/index.html
+
+
+
+The project has undergone some updates and enhancements.
+jQuery plugins have been integrated to provide better user 
+interactivity and experience. In situations where some widgets
+were not functioning as expected, they have been left 
+commented out in the code for reference. Two AJAX requests
+have been utilized in this project. The first one fetches
+weather data from the OpenWeatherMap API (https://openweathermap.org/api).
+This helps to provide real-time weather updates for the users.
+The second AJAX request fetches content for the "Courses" section
+of the website from three different .txt files
+ (course1.txt, course2.txt, and course3.txt). This allows 
+ dynamic updating of the course information directly from 
+ the server without the need to modify the main HTML file.
+
+
+
+Here are the plugins and jQuery functionalities implemented:
+fadeIn() and setTimeout()
+scroll()
+owlCarousel()
+hover()
+Slick (currently deactivated but code exists): This plugin was initially planned to be used for creating a slick, responsive carousel but is currently not in use.
+jQuery Validation
+Dialog Plugin
+
+
+
+This website serves as a comprehensive platform designed to
+introduce and represent a university. It is developed with 
+an emphasis on versatility, enabling users to gather significant
+information about the university and establish direct communication 
+seamlessly. The design of the website boasts a contemporary
+aesthetic that aligns with its highly functional architecture.
+
+The project is thoughtfully designed with the needs of the 
+stakeholders in mind, with the goal of delivering a fun and dynamic
+user experience. It uses AJAX to enable real-time data changes, which
+in turn provides dynamic content and dramatically raises user engagement.
+
+Our goal as we look to the future is to continuously improve and 
+increase the functionality and interaction of the website. We strive
+to consistently meet and above user expectations in order to maintain 
+the website as a crucial and beneficial tool for all of its users.
+
+
+
+
